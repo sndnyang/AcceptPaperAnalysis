@@ -15,7 +15,10 @@ TODO:
 
 ## Acceptance rate
 
+TODO
+
 ## Paper Keywords statistics
+![NIPS2019](https://github.com/sndnyang/AcceptPaperAnalysis/raw/master/images/neuips2019_stat.png)
 
 ## Analysis and Visualization Code (Jupyter Notebook)
 
