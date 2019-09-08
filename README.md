@@ -17,8 +17,25 @@ TODO:
 
 TODO
 
-## Paper Keywords statistics
+## Paper statistics
+
+### Paper Keywords statistics
+
 ![NIPS2019](https://github.com/sndnyang/AcceptPaperAnalysis/raw/master/images/neuips2019_stat.png)
+
+### Paper Institutes statistics
+
+All authors:
+
+![NIPS2019](https://github.com/sndnyang/AcceptPaperAnalysis/raw/master/images/neuips2019_all_ins.png)
+
+First authors:
+
+![NIPS2019](https://github.com/sndnyang/AcceptPaperAnalysis/raw/master/images/neuips2019_first_ins.png)
+
+### Paper Nationality statistics
+
+TODO: Guess the nationality of authors
 
 ## Analysis and Visualization Code (Jupyter Notebook)
 
