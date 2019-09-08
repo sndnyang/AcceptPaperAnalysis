@@ -56,6 +56,7 @@ Prerequisites
 + nltk
 + wordcloud
 + matplotlib==3.0.0, 3.1 has a issue to stack frames.
++ pyecharts
 
 or
 

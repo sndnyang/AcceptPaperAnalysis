@@ -13,7 +13,10 @@ Total submission: 6743
 
 Acceptance rate: 21.24%
 
-TODO: visualization of recent years
+[notebook link](https://github.com/sndnyang/NeuIPS2019-Paper-Statistics/blob/master/analysis.ipynb#Accept-Rate)
+
+
+![NIPS2019](https://github.com/sndnyang/AcceptPaperAnalysis/raw/master/images/neuips_acc_rate.png)
 
 ## Paper statistics
 
