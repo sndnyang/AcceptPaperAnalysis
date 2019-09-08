@@ -88,7 +88,7 @@
     "Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video": {
         "authors": [
             [
-                "JiaWang Bian",
+                "Jiawang Bian",
                 [
                     "The University of Adelaide"
                 ]
@@ -453,6 +453,8 @@
             [
                 "Hamid Rezatofighi",
                 [
+                    "Stanford University",
+                    "",
                     "University of Adelaide"
                 ]
             ],
@@ -487,13 +489,13 @@
             [
                 "Rongrong Ji",
                 [
-                    "Xiamen University, China"
+                    "Xiamen University"
                 ]
             ],
             [
                 "Qixiang Ye",
                 [
-                    "University of Chinese Academy of Sciences, China"
+                    "University of Chinese Academy of Sciences"
                 ]
             ]
         ]
@@ -703,7 +705,7 @@
             [
                 "Fabio Remondino",
                 [
-                    "\"Fondazione Bruno Kessler, Italy\""
+                    "Fondazione Bruno Kessler, Italy"
                 ]
             ]
         ]
@@ -882,7 +884,7 @@
     "Blind Super-Resolution Kernel Estimation using an Internal-GAN": {
         "authors": [
             [
-                "Yosef Bell Kligler",
+                "Sefi Bell-Kligler",
                 [
                     "Weizmann Istitute of Science"
                 ]
@@ -1088,8 +1090,7 @@
             [
                 "Boris Hanin",
                 [
-                    "Texas A",
-                    "M"
+                    "Texas A&M"
                 ]
             ],
             [
@@ -1221,7 +1222,8 @@
             [
                 "Richard Nock",
                 [
-                    "Data61, the Australian National University and the University of Sydney"
+                    "Data61, the Australian National University",
+                    "the University of Sydney"
                 ]
             ],
             [
@@ -1663,8 +1665,8 @@
             [
                 "Yuval Peres",
                 [
-                    "N",
-                    "A"
+                    "",
+                    ""
                 ]
             ],
             [
@@ -1764,13 +1766,13 @@
             [
                 "Xiaoyang Tan",
                 [
-                    "Nanjing University of Aeronautics and Astronautics, China"
+                    "Nanjing University of Aeronautics and Astronautics"
                 ]
             ],
             [
                 "Yaozhong Gan",
                 [
-                    "Nanjing University of Aeronautics and Astronautics, China"
+                    "Nanjing University of Aeronautics and Astronautics"
                 ]
             ]
         ]
@@ -1997,7 +1999,7 @@
             [
                 "Jian Chen",
                 [
-                    "\"South China University of Technology, China\""
+                    "South China University of Technology"
                 ]
             ],
             [
@@ -2315,7 +2317,7 @@
             [
                 "xinbang zhang",
                 [
-                    "Institute of Automation,Chinese  Academy of Science"
+                    "Institute of Automation,Chinese Academy of Science"
                 ]
             ],
             [
@@ -2333,7 +2335,7 @@
             [
                 "SHIMING XIANG",
                 [
-                    "Chinese Academy of Sciences, China"
+                    "Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -2585,7 +2587,7 @@
             [
                 "Aadirupa Saha",
                 [
-                    "Indian Institute of SCience"
+                    "Indian Institute of Science"
                 ]
             ],
             [
@@ -2849,7 +2851,7 @@
             [
                 "Michael Zollhoefer",
                 [
-                    "Stanford University"
+                    "Facebook Reality Labs"
                 ]
             ],
             [
@@ -3125,7 +3127,7 @@
                 ]
             ],
             [
-                "Ariel D Procaccia",
+                "Ariel Procaccia",
                 [
                     "Carnegie Mellon University"
                 ]
@@ -3239,8 +3241,7 @@
             [
                 "Haotao N Wang",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -3604,7 +3605,7 @@
                 ]
             ],
             [
-                "Trung Pham",
+                "Trung X Pham",
                 [
                     "KAIST"
                 ]
@@ -4077,7 +4078,7 @@
             [
                 "Wei-Lun Chao",
                 [
-                    "Cornell University          Ohio State University"
+                    "Cornell University     Ohio State University"
                 ]
             ],
             [
@@ -4482,7 +4483,7 @@
             [
                 "Wesley Chung",
                 [
-                    "University of Alberta"
+                    "McGill University"
                 ]
             ],
             [
@@ -4819,7 +4820,7 @@
             [
                 "Rongrong Ji",
                 [
-                    "Xiamen University, China"
+                    "Xiamen University"
                 ]
             ],
             [
@@ -4849,7 +4850,7 @@
             [
                 "Yongjian Wu",
                 [
-                    "Tencent Technology  Co.,Ltd"
+                    "Tencent Technology Co.,Ltd"
                 ]
             ],
             [
@@ -5097,7 +5098,7 @@
     "Blended Matching Pursuit": {
         "authors": [
             [
-                "Cyrille W Combettes",
+                "Cyrille Combettes",
                 [
                     "Georgia Institute of Technology"
                 ]
@@ -5424,7 +5425,7 @@
             [
                 "Rongrong Ji",
                 [
-                    "Xiamen University, China"
+                    "Xiamen University"
                 ]
             ],
             [
@@ -5442,7 +5443,7 @@
             [
                 "Qixiang Ye",
                 [
-                    "University of Chinese Academy of Sciences, China"
+                    "University of Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -5493,7 +5494,8 @@
             [
                 "Mihaela van der Schaar",
                 [
-                    "University of Cambridge, Alan Turing Institute and UCLA"
+                    "University of Cambridge, Alan Turing Institute",
+                    "UCLA"
                 ]
             ]
         ]
@@ -5629,7 +5631,8 @@
             [
                 "Richard Nock",
                 [
-                    "Data61, the Australian National University and the University of Sydney"
+                    "Data61, the Australian National University",
+                    "the University of Sydney"
                 ]
             ],
             [
@@ -5641,7 +5644,8 @@
             [
                 "Cheng Soon Ong",
                 [
-                    "Data61 and ANU"
+                    "Data61",
+                    "ANU"
                 ]
             ]
         ]
@@ -5813,7 +5817,8 @@
             [
                 "Eliya Nachmani",
                 [
-                    "Tel Aviv University and Facebook AI Research"
+                    "Tel Aviv University",
+                    "Facebook AI Research"
                 ]
             ],
             [
@@ -6254,7 +6259,7 @@
             [
                 "Hanjun Dai",
                 [
-                    "Google Brain"
+                    "Georgia Tech"
                 ]
             ],
             [
@@ -7362,7 +7367,7 @@
                 ]
             ],
             [
-                "Sumohana S Channappayya",
+                "Sumohana Channappayya",
                 [
                     "Indian Institute of Technology Hyderabad"
                 ]
@@ -7380,7 +7385,8 @@
             [
                 "Petros Dellaportas",
                 [
-                    "University College London, Athens University of Economics and Alan Turing Institute"
+                    "University College London, Athens University of Economics",
+                    "Alan Turing Institute"
                 ]
             ],
             [
@@ -7446,7 +7452,7 @@
             [
                 "Xiaoming Yu",
                 [
-                    "Peking University, Shenzhen Graduate School and  Peng Cheng Laboratory"
+                    "Peking University"
                 ]
             ],
             [
@@ -7666,7 +7672,7 @@
             [
                 "Simon Ramstedt",
                 [
-                    "University of Montreal"
+                    "Mila"
                 ]
             ],
             [
@@ -7710,7 +7716,7 @@
             [
                 "Alexander Immer",
                 [
-                    "EPFL"
+                    "EPFL, RIKEN"
                 ]
             ],
             [
@@ -7720,7 +7726,7 @@
                 ]
             ],
             [
-                "Maciej Jan Korzepa",
+                "Maciej Korzepa",
                 [
                     "Technical University of Denmark"
                 ]
@@ -8261,7 +8267,8 @@
             [
                 "Eunbyung Park",
                 [
-                    "UNC Chapel Hill"
+                    "UNC Chapel Hill",
+                    "Nuro"
                 ]
             ],
             [
@@ -8327,7 +8334,8 @@
             [
                 "Maithra Raghu",
                 [
-                    "Cornell University and Google Brain"
+                    "Cornell University",
+                    "Google Brain"
                 ]
             ],
             [
@@ -8498,7 +8506,7 @@
             [
                 "Lu Zhang",
                 [
-                    "University of Arkanasa"
+                    "University of Arkansas"
                 ]
             ],
             [
@@ -9070,7 +9078,7 @@
             [
                 "Edgar Dobriban",
                 [
-                    "Stanford University"
+                    "University of Pennsylvania"
                 ]
             ],
             [
@@ -9104,7 +9112,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -9552,7 +9561,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ]
         ]
@@ -9608,7 +9618,7 @@
             [
                 "Xiaochun Cao",
                 [
-                    "Chinese Academy of Sciences"
+                    "Institute of Information Engineering, Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -9708,13 +9718,13 @@
     "A First-order Algorithmic Framework for Distributionally Robust Logistic Regression": {
         "authors": [
             [
-                "Jiajin Li",
+                "JIAJIN LI",
                 [
                     "The Chinese University of Hong Kong"
                 ]
             ],
             [
-                "Sen  Huang",
+                "SEN HUANG",
                 [
                     "The Chinese University of Hong Kong"
                 ]
@@ -9899,7 +9909,8 @@
             [
                 "Junya Honda",
                 [
-                    ""
+                    "The Univerisity of Tokyo",
+                    "RIKEN"
                 ]
             ],
             [
@@ -10040,7 +10051,7 @@
             [
                 "Anette Hunziker",
                 [
-                    "Taskbase"
+                    "ETH Zurich"
                 ]
             ],
             [
@@ -10328,7 +10339,8 @@
             [
                 "Philipp Hennig",
                 [
-                    "University of T\u00fcbingen and MPI for Intelligent Systems T\u00fcbingen"
+                    "University of T\u00fcbingen",
+                    "MPI for Intelligent Systems T\u00fcbingen"
                 ]
             ],
             [
@@ -10778,7 +10790,8 @@
             [
                 "Mihaela van der Schaar",
                 [
-                    "University of Cambridge, Alan Turing Institute and UCLA"
+                    "University of Cambridge, Alan Turing Institute",
+                    "UCLA"
                 ]
             ]
         ]
@@ -11509,7 +11522,7 @@
             [
                 "Hugo Caselles-Dupr\u00e9",
                 [
-                    "Flowers Laboaratory",
+                    "Flowers Laboratory",
                     "Softbank Robotics Europe"
                 ]
             ],
@@ -11640,7 +11653,7 @@
             [
                 "Aymeric Dieuleveut",
                 [
-                    "EPFL"
+                    "Ecole Polytechnique, IPP Paris"
                 ]
             ],
             [
@@ -12160,7 +12173,8 @@
             [
                 "Jure Leskovec",
                 [
-                    "Stanford University and Pinterest"
+                    "Stanford University",
+                    "Pinterest"
                 ]
             ]
         ]
@@ -12608,7 +12622,7 @@
                 ]
             ],
             [
-                "SeyedArian Hosseini",
+                "Arian Hosseini",
                 [
                     "Mila, University of Montreal, MSR Montreal"
                 ]
@@ -12845,8 +12859,7 @@
             [
                 "Ziyu Jiang",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -12858,8 +12871,7 @@
             [
                 "Xiaohan Chen",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -12997,7 +13009,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -14186,7 +14199,7 @@
             [
                 "Yahong Han",
                 [
-                    "Tianjin University, China"
+                    "Tianjin University"
                 ]
             ],
             [
@@ -14318,7 +14331,7 @@
     "Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels": {
         "authors": [
             [
-                "Simon S Du",
+                "Simon Du",
                 [
                     "Institute for Advanced Study"
                 ]
@@ -14404,7 +14417,7 @@
                 ]
             ],
             [
-                "Simon S Du",
+                "Simon Du",
                 [
                     "Institute for Advanced Study"
                 ]
@@ -14542,7 +14555,7 @@
             [
                 "Kexin Tang",
                 [
-                    "University of Minnesota"
+                    "Shanghai Jiao Tong University"
                 ]
             ]
         ]
@@ -14706,7 +14719,7 @@
             [
                 "Xiaochun Cao",
                 [
-                    "Chinese Academy of Sciences"
+                    "Institute of Information Engineering, Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -14772,7 +14785,7 @@
             [
                 "Xiaochun Cao",
                 [
-                    "Chinese Academy of Sciences"
+                    "Institute of Information Engineering, Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -15227,7 +15240,7 @@
             [
                 "Yingru Li",
                 [
-                    "The Chinese University of Hong Kong, Shenzhen, China"
+                    "The Chinese University of Hong Kong, Shenzhen"
                 ]
             ],
             [
@@ -15587,7 +15600,8 @@
             [
                 "Philipp Hennig",
                 [
-                    "University of T\u00fcbingen and MPI for Intelligent Systems T\u00fcbingen"
+                    "University of T\u00fcbingen",
+                    "MPI for Intelligent Systems T\u00fcbingen"
                 ]
             ]
         ]
@@ -15732,7 +15746,7 @@
             [
                 "Alain Rakotomamonjy",
                 [
-                    "Universit\u00e9 de Rouen Normandie   Criteo AI Lab"
+                    "Universit\u00e9 de Rouen Normandie  Criteo AI Lab"
                 ]
             ]
         ]
@@ -15844,7 +15858,8 @@
             [
                 "Zoubin Ghahramani",
                 [
-                    "Uber and University of Cambridge"
+                    "Uber",
+                    "University of Cambridge"
                 ]
             ]
         ]
@@ -15900,7 +15915,7 @@
             [
                 "Ke Yi",
                 [
-                    "\" Hong Kong University of Science and Technology, Hong Kong\""
+                    "Hong Kong University of Science and Technology, Hong Kong"
                 ]
             ]
         ]
@@ -15916,7 +15931,7 @@
             [
                 "guiguang ding",
                 [
-                    "Tsinghua University, China"
+                    "Tsinghua University"
                 ]
             ],
             [
@@ -16361,9 +16376,9 @@
     "Diffeomorphic Temporal Alignment Networks": {
         "authors": [
             [
-                "Ron Shapira weber",
+                "Ron A Shapira Weber",
                 [
-                    "Ben Gurion University"
+                    "Ben-Gurion University"
                 ]
             ],
             [
@@ -16395,7 +16410,7 @@
     "Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior": {
         "authors": [
             [
-                "Cheng-Chun  Hsu",
+                "Cheng-Chun Hsu",
                 [
                     "Academia Sinica"
                 ]
@@ -16549,7 +16564,7 @@
             [
                 "Xinyu Xiao",
                 [
-                    "National Laboratory of Pattern recognition ,  Institute of Automation of Chinese Academy of Sciences"
+                    "National Laboratory of Pattern recognition , Institute of Automation of Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -17121,8 +17136,9 @@
             [
                 "Marco Cuturi",
                 [
-                    "Google and CREST",
-                    "ENSAE"
+                    "Google",
+                    "ENSAE",
+                    "CREST"
                 ]
             ],
             [
@@ -17263,8 +17279,9 @@
             [
                 "Marco Cuturi",
                 [
-                    "Google and CREST",
-                    "ENSAE"
+                    "Google",
+                    "ENSAE",
+                    "CREST"
                 ]
             ]
         ]
@@ -17314,7 +17331,8 @@
             [
                 "J\u00e9r\u00f4me Malick",
                 [
-                    "CNRS and LJK"
+                    "CNRS",
+                    "LJK"
                 ]
             ],
             [
@@ -17467,7 +17485,7 @@
             [
                 "Xiaowei Zhou",
                 [
-                    "Zhejiang University, China"
+                    "Zhejiang University"
                 ]
             ]
         ]
@@ -17672,7 +17690,8 @@
             [
                 "Gabriel Peyr\u00e9",
                 [
-                    "CNRS and ENS"
+                    "CNRS",
+                    "ENS"
                 ]
             ]
         ]
@@ -17846,7 +17865,7 @@
                 ]
             ],
             [
-                "Ariel D Procaccia",
+                "Ariel Procaccia",
                 [
                     "Carnegie Mellon University"
                 ]
@@ -18424,7 +18443,8 @@
             [
                 "Pravesh Kothari",
                 [
-                    "Princeton University and Institute for Advanced Study"
+                    "Princeton University",
+                    "Institute for Advanced Study"
                 ]
             ]
         ]
@@ -18780,7 +18800,7 @@
             [
                 "Shay Moran",
                 [
-                    "IAS, Princeton"
+                    "Google AI Princeton"
                 ]
             ]
         ]
@@ -19169,7 +19189,8 @@
             [
                 "Michal Valko",
                 [
-                    "DeepMind Paris and Inria Lille - Nord Europe"
+                    "DeepMind Paris",
+                    "Inria Lille - Nord Europe"
                 ]
             ]
         ]
@@ -19229,8 +19250,7 @@
             [
                 "Wenrui Zhang",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -19430,7 +19450,7 @@
                 ]
             ],
             [
-                "Simon S Du",
+                "Simon Du",
                 [
                     "Institute for Advanced Study"
                 ]
@@ -19894,7 +19914,7 @@
     "Difference Maximization Q-learning: Provably Efficient Q-learning with Function Approximation": {
         "authors": [
             [
-                "Simon S Du",
+                "Simon Du",
                 [
                     "Institute for Advanced Study"
                 ]
@@ -20078,7 +20098,7 @@
                 ]
             ],
             [
-                "Simon S Du",
+                "Simon Du",
                 [
                     "Institute for Advanced Study"
                 ]
@@ -20384,7 +20404,8 @@
             [
                 "Andrea Vedaldi",
                 [
-                    "Facebook AI Research and University of Oxford"
+                    "Facebook AI Research",
+                    "University of Oxford"
                 ]
             ],
             [
@@ -20608,7 +20629,7 @@
                 ]
             ],
             [
-                "Ariel D Procaccia",
+                "Ariel Procaccia",
                 [
                     "Carnegie Mellon University"
                 ]
@@ -21295,7 +21316,8 @@
             [
                 "Alon Cohen",
                 [
-                    "Technion and Google Inc."
+                    "Technion",
+                    "Google Inc."
                 ]
             ],
             [
@@ -21320,7 +21342,7 @@
             [
                 "Shay Moran",
                 [
-                    "IAS, Princeton"
+                    "Google AI Princeton"
                 ]
             ]
         ]
@@ -21330,7 +21352,7 @@
             [
                 "Hao Yu",
                 [
-                    "Alibaba Group  Inc"
+                    "Alibaba Group Inc"
                 ]
             ]
         ]
@@ -21484,7 +21506,7 @@
             [
                 "Shay Moran",
                 [
-                    "IAS, Princeton"
+                    "Google AI Princeton"
                 ]
             ]
         ]
@@ -21901,6 +21923,8 @@
             [
                 "Hamid Rezatofighi",
                 [
+                    "Stanford University",
+                    "",
                     "University of Adelaide"
                 ]
             ],
@@ -21923,7 +21947,7 @@
             [
                 "Hanjun Dai",
                 [
-                    "Google Brain"
+                    "Georgia Tech"
                 ]
             ],
             [
@@ -22396,7 +22420,7 @@
             [
                 "Yonatan Bisk",
                 [
-                    "University of Washington"
+                    "Carnegie Mellon University"
                 ]
             ],
             [
@@ -22610,7 +22634,8 @@
             [
                 "Felix Sosa",
                 [
-                    "Harvard and Center for Brains, Minds, and Machines"
+                    "Harvard",
+                    "Center for Brains, Minds, and Machines"
                 ]
             ],
             [
@@ -22796,7 +22821,8 @@
             [
                 "Jure Leskovec",
                 [
-                    "Stanford University and Pinterest"
+                    "Stanford University",
+                    "Pinterest"
                 ]
             ]
         ]
@@ -22874,7 +22900,7 @@
                 ]
             ],
             [
-                "Uygar Sumbul",
+                "Uygar S\u00fcmb\u00fcl",
                 [
                     "Allen Institute"
                 ]
@@ -22972,7 +22998,7 @@
             [
                 "Olivier Pietquin",
                 [
-                    "Google Research    Brain Team"
+                    "Google Research  Brain Team"
                 ]
             ]
         ]
@@ -23652,7 +23678,7 @@
             [
                 "Brandon Amos",
                 [
-                    "Facebook"
+                    "Facebook AI"
                 ]
             ],
             [
@@ -23896,7 +23922,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -24010,7 +24037,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -24150,7 +24178,7 @@
             [
                 "Yoram Singer",
                 [
-                    "Google"
+                    "Princeton"
                 ]
             ]
         ]
@@ -24242,7 +24270,8 @@
             [
                 "Lingrui Gan",
                 [
-                    "University of Illinois at Urbana and Champaign"
+                    "University of Illinois at Urbana",
+                    "Champaign"
                 ]
             ],
             [
@@ -25527,7 +25556,7 @@
             [
                 "Shay Moran",
                 [
-                    "IAS, Princeton"
+                    "Google AI Princeton"
                 ]
             ],
             [
@@ -26050,7 +26079,8 @@
             [
                 "Jure Leskovec",
                 [
-                    "Stanford University and Pinterest"
+                    "Stanford University",
+                    "Pinterest"
                 ]
             ]
         ]
@@ -26110,7 +26140,7 @@
             [
                 "Shinji Ito",
                 [
-                    "NEC Corporation,      University of Tokyo"
+                    "NEC Corporation,   University of Tokyo"
                 ]
             ],
             [
@@ -26266,7 +26296,7 @@
                 ]
             ],
             [
-                "Jorge A Mendez",
+                "Jorge Mendez",
                 [
                     "University of Pennsylvania"
                 ]
@@ -26396,29 +26426,25 @@
             [
                 "Ehsan Hajiramezanali",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Arman Hasanzadeh",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Krishna Narayanan",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Nick Duffield",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -26430,8 +26456,7 @@
             [
                 "Xiaoning Qian",
                 [
-                    "Texas A",
-                    "M"
+                    "Texas A&M"
                 ]
             ]
         ]
@@ -26441,29 +26466,25 @@
             [
                 "Arman Hasanzadeh",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Ehsan Hajiramezanali",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Krishna Narayanan",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Nick Duffield",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -26475,8 +26496,7 @@
             [
                 "Xiaoning Qian",
                 [
-                    "Texas A",
-                    "M"
+                    "Texas A&M"
                 ]
             ]
         ]
@@ -27276,7 +27296,8 @@
             [
                 "Sumeet Katariya",
                 [
-                    "UW-Madison and Amazon"
+                    "UW-Madison",
+                    "Amazon"
                 ]
             ],
             [
@@ -27344,7 +27365,7 @@
             [
                 "Dheeraj Baby",
                 [
-                    ""
+                    "UC Santa Barbara"
                 ]
             ],
             [
@@ -27477,7 +27498,7 @@
             [
                 "Armin Kappeler",
                 [
-                    "Yahoo Research"
+                    "Apple"
                 ]
             ],
             [
@@ -27568,7 +27589,7 @@
             [
                 "Antonio Vergari",
                 [
-                    "Max-Planck Institute for Intelligent Systems"
+                    "University of California, Los Angeles"
                 ]
             ],
             [
@@ -27838,7 +27859,7 @@
             [
                 "Jayakrishnan Nair",
                 [
-                    "\"Assist. Prof, EE, IIT Bombay\""
+                    "Assist. Prof, EE, IIT Bombay"
                 ]
             ],
             [
@@ -27934,7 +27955,8 @@
             [
                 "Mihaela van der Schaar",
                 [
-                    "University of Cambridge, Alan Turing Institute and UCLA"
+                    "University of Cambridge, Alan Turing Institute",
+                    "UCLA"
                 ]
             ]
         ]
@@ -27994,7 +28016,8 @@
             [
                 "Mihaela van der Schaar",
                 [
-                    "University of Cambridge, Alan Turing Institute and UCLA"
+                    "University of Cambridge, Alan Turing Institute",
+                    "UCLA"
                 ]
             ]
         ]
@@ -28405,7 +28428,7 @@
             [
                 "Babhru Joshi",
                 [
-                    "Rice University"
+                    "University of British Columbia"
                 ]
             ]
         ]
@@ -28428,7 +28451,8 @@
             [
                 "Michal Valko",
                 [
-                    "DeepMind Paris and Inria Lille - Nord Europe"
+                    "DeepMind Paris",
+                    "Inria Lille - Nord Europe"
                 ]
             ]
         ]
@@ -28450,7 +28474,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ]
         ]
@@ -28591,7 +28616,8 @@
             [
                 "Nesime Tatbul",
                 [
-                    "Intel Labs and MIT"
+                    "Intel Labs",
+                    "MIT"
                 ]
             ],
             [
@@ -28609,8 +28635,7 @@
             [
                 "Abdullah Muzahid",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ]
         ]
@@ -28811,7 +28836,7 @@
             [
                 "Dan Garant",
                 [
-                    "C",
+                    "",
                     "S Wholesale Grocers"
                 ]
             ],
@@ -29138,7 +29163,7 @@
             [
                 "Alexandre Araujo",
                 [
-                    "Universit\u00e9 Paris-Dauphine - Wavestone"
+                    "Universit\u00e9 Paris-Dauphine"
                 ]
             ],
             [
@@ -29642,7 +29667,7 @@
             [
                 "Shinji Ito",
                 [
-                    "NEC Corporation,      University of Tokyo"
+                    "NEC Corporation,   University of Tokyo"
                 ]
             ],
             [
@@ -29802,7 +29827,7 @@
             [
                 "Shinji Ito",
                 [
-                    "NEC Corporation,      University of Tokyo"
+                    "NEC Corporation,   University of Tokyo"
                 ]
             ]
         ]
@@ -29998,7 +30023,7 @@
             [
                 "Alain Rakotomamonjy",
                 [
-                    "Universit\u00e9 de Rouen Normandie   Criteo AI Lab"
+                    "Universit\u00e9 de Rouen Normandie  Criteo AI Lab"
                 ]
             ]
         ]
@@ -30014,7 +30039,8 @@
             [
                 "Peter Gr\u00fcnwald",
                 [
-                    "CWI and Leiden University"
+                    "CWI",
+                    "Leiden University"
                 ]
             ],
             [
@@ -30241,7 +30267,8 @@
             [
                 "Michal Valko",
                 [
-                    "DeepMind Paris and Inria Lille - Nord Europe"
+                    "DeepMind Paris",
+                    "Inria Lille - Nord Europe"
                 ]
             ],
             [
@@ -30284,8 +30311,9 @@
             [
                 "Marco Cuturi",
                 [
-                    "Google and CREST",
-                    "ENSAE"
+                    "Google",
+                    "ENSAE",
+                    "CREST"
                 ]
             ]
         ]
@@ -30531,7 +30559,8 @@
             [
                 "Michal Valko",
                 [
-                    "DeepMind Paris and Inria Lille - Nord Europe"
+                    "DeepMind Paris",
+                    "Inria Lille - Nord Europe"
                 ]
             ]
         ]
@@ -30629,7 +30658,8 @@
             [
                 "Theodoros Damoulas",
                 [
-                    "University of Warwick        The Alan Turing Institute"
+                    "University of Warwick",
+                    "The Alan Turing Institute"
                 ]
             ],
             [
@@ -30841,7 +30871,7 @@
             [
                 "Lei Li",
                 [
-                    "Bytedance"
+                    "ByteDance"
                 ]
             ]
         ]
@@ -31187,7 +31217,7 @@
             [
                 "Ling Chen",
                 [
-                    "\" University of Technology, Sydney, Australia\""
+                    "University of Technology, Sydney, Australia"
                 ]
             ]
         ]
@@ -31771,7 +31801,7 @@
     "Cross-Domain Transferable Perturbations": {
         "authors": [
             [
-                "Muzammal Naseer",
+                "Muhammad Muzammal Naseer",
                 [
                     "Australian National University"
                 ]
@@ -31819,7 +31849,7 @@
             [
                 "Vikram Mandikal",
                 [
-                    "Microsoft Research"
+                    "The University of Texas at Austin"
                 ]
             ],
             [
@@ -32652,7 +32682,7 @@
             [
                 "Linxiao Yang",
                 [
-                    "University of Electronic Science  and Technology of China; Singapore University of Technology and Design"
+                    "University of Electronic Science and Technology of China; Singapore University of Technology and Design"
                 ]
             ],
             [
@@ -32758,7 +32788,7 @@
             [
                 "Borja Balle",
                 [
-                    "Amazon Research Cambridge"
+                    "DeepMind"
                 ]
             ],
             [
@@ -32818,7 +32848,13 @@
     "Gossip-based Actor-Learner Architectures for Deep Reinforcement Learning": {
         "authors": [
             [
-                "Mahmoud Assran",
+                "Mahmoud",
+                [
+                    "Mido"
+                ]
+            ],
+            [
+                "Assran",
                 [
                     "McGill University",
                     "Facebook AI Research"
@@ -33153,7 +33189,7 @@
             [
                 "Eva Dyer",
                 [
-                    "Georgia Tech"
+                    "Georgia Institute of Technology"
                 ]
             ],
             [
@@ -33262,7 +33298,8 @@
             [
                 "Ami Wiesel",
                 [
-                    "Google Research and The Hebrew University of Jerusalem, Israel"
+                    "Google Research",
+                    "The Hebrew University of Jerusalem, Israel"
                 ]
             ]
         ]
@@ -33278,7 +33315,7 @@
             [
                 "Georgios Tzimiropoulos",
                 [
-                    "University of Nottingham"
+                    "Samsung AI Centre | University of Nottingham"
                 ]
             ]
         ]
@@ -33498,7 +33535,7 @@
             [
                 "Aymeric Dieuleveut",
                 [
-                    "EPFL"
+                    "Ecole Polytechnique, IPP Paris"
                 ]
             ],
             [
@@ -33737,7 +33774,8 @@
             [
                 "Judy Hanwen Shen",
                 [
-                    "Massachusetts Institute of Technology"
+                    "Massachusetts Institute of Technology",
+                    "Microsoft"
                 ]
             ],
             [
@@ -34686,7 +34724,8 @@
             [
                 "Theodoros Damoulas",
                 [
-                    "University of Warwick        The Alan Turing Institute"
+                    "University of Warwick",
+                    "The Alan Turing Institute"
                 ]
             ],
             [
@@ -34774,7 +34813,7 @@
                 ]
             ],
             [
-                "justin lewis",
+                "Justin Lewis",
                 [
                     "University of Texas at Austin"
                 ]
@@ -35108,7 +35147,7 @@
             [
                 "J\u00fcrgen Schmidhuber",
                 [
-                    "Swiss AI Lab, IDSIA  - NNAISENSE"
+                    "Swiss AI Lab, IDSIA - NNAISENSE"
                 ]
             ],
             [
@@ -35282,7 +35321,7 @@
             [
                 "ZHAO-XIANG ZHANG",
                 [
-                    "Chinese Academy of Sciences, China"
+                    "Chinese Academy of Sciences"
                 ]
             ],
             [
@@ -35338,7 +35377,8 @@
             [
                 "Miika Aittala",
                 [
-                    "MIT"
+                    "MIT CSAIL",
+                    "NVIDIA"
                 ]
             ],
             [
@@ -36759,7 +36799,7 @@
             [
                 "Kundan Kumar",
                 [
-                    "Lyrebird-AI, Universite de Montreal"
+                    "Lyrebird-AI, Mila"
                 ]
             ],
             [
@@ -37022,7 +37062,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -37120,15 +37161,13 @@
             [
                 "Yue Cao",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Tianlong Chen",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -37140,8 +37179,7 @@
             [
                 "Yang Shen",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ]
         ]
@@ -37257,7 +37295,8 @@
             [
                 "Martin Vechev",
                 [
-                    "DeepCode and ETH Zurich, Switzerland"
+                    "DeepCode",
+                    "ETH Zurich, Switzerland"
                 ]
             ]
         ]
@@ -37764,7 +37803,8 @@
             [
                 "Martin Vechev",
                 [
-                    "DeepCode and ETH Zurich, Switzerland"
+                    "DeepCode",
+                    "ETH Zurich, Switzerland"
                 ]
             ]
         ]
@@ -37786,7 +37826,8 @@
             [
                 "Pieter Abbeel",
                 [
-                    "UC Berkeley  Covariant"
+                    "UC Berkeley",
+                    "covariant.ai"
                 ]
             ],
             [
@@ -37836,15 +37877,13 @@
             [
                 "Mohammadreza Armandpour",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
                 "Patrick Ding",
                 [
-                    "Texas A",
-                    "M University"
+                    "Texas A&M University"
                 ]
             ],
             [
@@ -38229,7 +38268,8 @@
             [
                 "Rodrigo Toro Icarte",
                 [
-                    "University of Toronto and Vector Institute"
+                    "University of Toronto",
+                    "Vector Institute"
                 ]
             ],
             [
@@ -38776,7 +38816,8 @@
             [
                 "Petros Dellaportas",
                 [
-                    "University College London, Athens University of Economics and Alan Turing Institute"
+                    "University College London, Athens University of Economics",
+                    "Alan Turing Institute"
                 ]
             ]
         ]
@@ -39226,7 +39267,8 @@
             [
                 "Hamid Aghajan",
                 [
-                    "Sharif University of Technology and iMinds, Gent University,"
+                    "Sharif University of Technology",
+                    "iMinds, Gent University,"
                 ]
             ]
         ]
@@ -39274,9 +39316,9 @@
                 ]
             ],
             [
-                "xiaoyun Li",
+                "Xiaoyun Li",
                 [
-                    "Rutgers"
+                    "Rutgers University"
                 ]
             ],
             [
@@ -39292,13 +39334,15 @@
             [
                 "Mohammad Reza Keshtkaran",
                 [
-                    "Georgia Tech and Emory University"
+                    "Georgia Tech",
+                    "Emory University"
                 ]
             ],
             [
                 "Chethan Pandarinath",
                 [
-                    "Emory University and Georgia Tech"
+                    "Emory University",
+                    "Georgia Tech"
                 ]
             ]
         ]

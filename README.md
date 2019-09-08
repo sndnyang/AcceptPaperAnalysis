@@ -33,7 +33,7 @@ Prerequisites
 + bs4
 + nltk
 + wordcloud
-+ matplotlib
++ matplotlib==3.0.0, 3.1 has a issue to stack frames.
 
 or
 
